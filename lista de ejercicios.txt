@@ -1,0 +1,105 @@
+Ejercicios Básicos
+01-Imprimir "Hola Mundo" en PHP.
+02-Crear una variable y mostrar su contenido.
+03-Sumar dos números y mostrar el resultado.
+04-Verificar si un número es par o impar.
+05-Calcular el área de un círculo dado su radio.
+06-Crear un arreglo con 5 números y mostrarlos con print_r.
+07-Ordenar un arreglo en orden ascendente.
+08-Crear una función que devuelva el doble de un número.
+09-Usar un bucle for para imprimir los números del 1 al 10.
+10-Usar un bucle while para imprimir números pares entre 1 y 20.
+11-Crear una constante y mostrar su valor.
+12-Convertir grados Celsius a Fahrenheit.
+13-Verificar si un número es positivo, negativo o cero.
+14-Concatenar dos cadenas de texto.
+15-Crear una función que determine si un año es bisiesto.
+16-Calcular la tabla de multiplicar de un número.
+17-Imprimir los primeros 10 números de la serie de Fibonacci.
+18-Contar el número de palabras en una cadena.
+19-Revertir una cadena de texto.
+20-Verificar si una palabra es un palíndromo.
+Ejercicios Intermedios
+21-Crear una función para calcular el factorial de un número.
+22-Determinar si un número es primo.
+23-Crear una matriz bidimensional y recorrerla con bucles anidados.
+24-Leer datos de un formulario HTML con $_POST.
+25-Validar un correo electrónico usando filtros de PHP.
+26-Subir un archivo a un servidor.
+27-Crear una función que sume todos los elementos de un arreglo.
+28-Generar números aleatorios y almacenarlos en un arreglo.
+29-Crear un programa que simule una calculadora básica.
+30-Crear una función que determine la cantidad de vocales en una cadena.
+31-Crear una clase llamada Persona con atributos nombre y edad.
+32-Implementar una función que ordene un arreglo usando un algoritmo personalizado.
+33-Crear un archivo de texto y escribir en él.
+34-Leer el contenido de un archivo de texto.
+35-Crear una función que encuentre el número más grande de un arreglo.
+36-Crear una lista de tareas con una sesión de PHP.
+37-Usar date() para mostrar la fecha y hora actual.
+38-Crear un programa que convierta números a texto.
+39-Implementar un script que detecte si una cadena contiene otra cadena.
+40-Crear una función que elimine elementos duplicados de un arreglo.
+Ejercicios Avanzados
+41-Conectar PHP con una base de datos MySQL.
+42-Crear un CRUD básico (crear, leer, actualizar, eliminar).
+43-Implementar autenticación de usuarios con sesiones.
+44-Crear una API REST básica en PHP.
+45-Validar contraseñas fuertes con expresiones regulares.
+46-Crear un sistema de carrito de compras.
+47-Implementar paginación en un listado de elementos.
+48-Subir y redimensionar imágenes con PHP.
+49-Crear un sistema de comentarios para un blog.
+50-Implementar un sistema de registro y login.
+51-Crear gráficos con PHP usando bibliotecas como GD o Chart.js.
+52-Construir una calculadora que use Ajax para actualizaciones.
+53-Implementar encriptación de contraseñas con password_hash.
+54-Crear un sistema de reservas con PHP y MySQL.
+55-Enviar correos electrónicos con la función mail().
+56-Implementar un sistema de búsqueda en una base de datos.
+57-Crear un sistema de votaciones con registro de IP.
+58-Implementar un CAPTCHA básico.
+59-Construir un sistema de notificaciones en tiempo real.
+60-Crear un sistema de roles y permisos para usuarios.
+Extras (Desafíos)
+61-Crear un calendario dinámico.
+62-Generar un código QR a partir de texto.
+63-Integrar un sistema de pagos como PayPal o Stripe.
+64-Construir una API para un chat básico.
+65-Crear un sistema de estadísticas de visitas.
+66-Implementar seguridad con tokens CSRF.
+67-Construir una aplicación de encuestas.
+68-Implementar un sistema de subida masiva de archivos.
+69-Crear un generador de contraseñas aleatorias.
+70-Validar tarjetas de crédito con el algoritmo de Luhn.
+71-Crear una aplicación de mensajes instantáneos.
+72-Implementar un sistema de calificaciones con estrellas.
+73-Construir una aplicación de galería de imágenes.
+74-Crear una herramienta para dividir archivos grandes.
+75-Generar gráficos de barras a partir de datos de una base de datos.
+76-Implementar un sistema de notificaciones por correo.
+77-Crear un sistema de recuperación de contraseñas.
+78-Crear un registro de actividades de usuarios (logs).
+79-Implementar un sistema de geolocalización.
+80-Crear un sistema de reservas para eventos.
+Avanzadísimo
+81-Construir un sistema de administración para un sitio web.
+82-Crear un blog con categorías y etiquetas.
+83-Construir un sistema de chat en tiempo real usando WebSockets.
+84-Crear un gestor de usuarios con integración OAuth.
+85-Implementar una tienda en línea con carrito y pagos.
+86-Crear un sistema de foros.
+87-Crear un sistema de edición de imágenes en línea.
+88-Implementar un sistema de backups automáticos.
+89-Construir un sistema de tickets de soporte.
+90-Crear una API para gestionar inventarios.
+91-Desarrollar un sistema de encuestas con análisis de resultados.
+92-Crear una plataforma de aprendizaje con quizzes.
+93-Implementar un reproductor de música en línea.
+94-Crear una aplicación para gestionar proyectos.
+95-Construir un sistema de gestión de horarios.
+96-Crear una herramienta para generar PDFs desde formularios.
+97-Implementar un sistema de estadísticas en tiempo real.
+98-Construir una aplicación de análisis de texto.
+99-Crear un sistema de notificaciones push.
+100-Construir un sistema de seguimiento de tareas con diagramas Gantt.
